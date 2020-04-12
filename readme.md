@@ -13,7 +13,7 @@ in a room and chat with another persons in real time.
 
 ##### Usage
 
-Open the folder app in your terminal, then run:
+Open the app folder in your terminal, then run:
 `yarn` or `npm i`
 
-To run the app execute`yarn dev` or `npm run dev` 
+To run execute`yarn dev` or `npm run dev` 
