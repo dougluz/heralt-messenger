@@ -1,5 +1,9 @@
 ### A web based chat-app
 
+### Live Demo
+
+To access the app and see it working you can go to [Heroku](https://heralt-messenger.herokuapp.com/index.html)
+
 ##### Technologies
 
 * Express.js
